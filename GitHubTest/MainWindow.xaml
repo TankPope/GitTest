@@ -6,5 +6,6 @@
         <TextBlock Text="Hallo World"/>
         <TextBlock Text="This is a Conflict"/>
         <DatePicker></DatePicker>
+       <TextBlock></TextBlock>
     </StackPanel>
 </Window>
