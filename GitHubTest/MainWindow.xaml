@@ -4,5 +4,6 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <TextBlock></TextBlock>
+        <DatePicker></DatePicker>
     </Grid>
 </Window>
